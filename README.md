@@ -26,7 +26,7 @@ $ omf install thefuck
 ## Usage
 
 ```fish
-$ echoo ok
+$ git brch
 $ fuck
 ```
 
@@ -34,7 +34,6 @@ $ fuck
 # License
 
 [MIT][mit] © [scorphus][author] et [al][contributors]
-
 
 [thefuck]:         https://github.com/nvbn/thefuck
 [thefuck-install]: https://github.com/nvbn/thefuck/#requirements
