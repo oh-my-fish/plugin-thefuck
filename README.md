@@ -11,7 +11,7 @@
 
 # thefuck
 
-This plug-in create the necessary function to be used with [The Fuck][thefuck].
+This plug-in creates the necessary function to be used with [The Fuck][thefuck].
 
 
 ## Install
