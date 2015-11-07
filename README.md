@@ -22,6 +22,20 @@ After [installing The Fuck][thefuck-install], proceed:
 $ omf install thefuck
 ```
 
+## Optional key binding
+
+To use a key bind just add it to your `fish_user_key_bindings` function:
+
+```fish
+function fish_user_key_bindings
+  # ...
+  bind \e\e 'thefuck-command-line'  # Bind EscEsc to thefuck
+  # OR
+  bind \cf 'thefuck-command-line'  #  Bind Ctrl+F to thefuck
+  # ...
+end
+```
+
 
 ## Usage
 
