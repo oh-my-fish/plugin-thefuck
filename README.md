@@ -12,6 +12,11 @@
 # thefuck
 
 This plug-in creates the necessary function to be used with [The Fuck][thefuck].
+It brings:
+
+* Fast initialization (benchmark: diff is 10ms, median)
+* Lazy auto-update (only when The Fuck gets updated)
+* Key binding for command line replacement
 
 
 ## Install
