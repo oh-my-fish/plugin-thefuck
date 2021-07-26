@@ -5,16 +5,14 @@
 </div>
 <br>
 
-
 # thefuck ![][license-badge]
 
 This plug-in creates the necessary function to be used with [The Fuck][thefuck].
 It brings:
 
-* Fast initialization (benchmark: diff is 10ms, median)
-* Lazy auto-update (only when The Fuck gets updated)
-* Key binding for command line replacement
-
+- Fast initialization (benchmark: diff is 10ms, median)
+- Lazy auto-update (only when The Fuck gets updated)
+- Key binding for command line replacement
 
 ## Install
 
@@ -23,7 +21,6 @@ After [installing The Fuck][thefuck-install], proceed:
 ```fish
 $ omf install thefuck
 ```
-
 
 ## Optional key binding
 
@@ -37,7 +34,6 @@ function fish_user_key_bindings
 end
 ```
 
-
 ## Usage
 
 ```fish
@@ -45,17 +41,14 @@ $ git brch
 $ fuck
 ```
 
-
 # License
 
 [MIT][mit] © [scorphus][author] et [al][contributors]
 
-[thefuck]:         https://github.com/nvbn/thefuck
+[thefuck]: https://github.com/nvbn/thefuck
 [thefuck-install]: https://github.com/nvbn/thefuck/#requirements
-
-[mit]:             http://opensource.org/licenses/MIT
-[author]:          https://github.com/scorphus
-[contributors]:    https://github.com/oh-my-fish/plugin-thefuck/graphs/contributors
-[omf-link]:        https://www.github.com/oh-my-fish/oh-my-fish
-
-[license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
+[mit]: http://opensource.org/licenses/MIT
+[author]: https://github.com/scorphus
+[contributors]: https://github.com/oh-my-fish/plugin-thefuck/graphs/contributors
+[omf-link]: https://www.github.com/oh-my-fish/oh-my-fish
+[license-badge]: https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
